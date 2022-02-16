@@ -1,0 +1,4 @@
+/home/nghi/Desktop/test/CMakeFiles/rebuild_cache.dir
+/home/nghi/Desktop/test/CMakeFiles/edit_cache.dir
+/home/nghi/Desktop/test/CMakeFiles/hello_binary.dir
+/home/nghi/Desktop/test/CMakeFiles/hello_library.dir
